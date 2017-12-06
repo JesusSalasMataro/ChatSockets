@@ -1,0 +1,8 @@
+*.suo
+**/Servidor/bin
+**/Servidor/obj
+**/TcpIp/bin
+**/TcpIp/obj
+**/TcpIp/*.user
+
+
